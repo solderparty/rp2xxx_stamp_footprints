@@ -1,6 +1,6 @@
-# RP2040 Stamp Footprints and Symbols
+# RP2xxx Stamp Footprints and Symbols
 
-This repo contains symbols and footprints for the RP2040 Stamp for various CAD programs.
+This repo contains symbols and footprints for the RP2xxx (RP2040 and RP2350) Stamps for various CAD programs.
 
 The library in Eagle/ can also be used with Fusion 360.
 
