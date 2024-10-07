@@ -1,6 +1,7 @@
-The symbols and footprints are available in the EasyEDA library, just search for "RP2040_Stamp" or "RP2350_Stamp", or simply use these links:
+The symbols and footprints are available in the EasyEDA library, they might be found by searching for "solderparty" (possibly at the bottom of the results):
 
-https://u.easyeda.com/search?wd=rp2040_stamp&indextype=components
+https://u.easyeda.com/search?wd=solderparty&indextype=components
 
-https://u.easyeda.com/search?wd=rp2350_stamp&indextype=components
+Because the EasyEDA search functionality is not so good, we have also created and shared a project that includes all the symbols and footprints so that they can be copied over:
 
+https://oshwlab.com/arturo182/stamp_gallery
