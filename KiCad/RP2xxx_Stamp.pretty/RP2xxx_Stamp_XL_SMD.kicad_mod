@@ -727,7 +727,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "dcedf0ba-9e2d-4a5b-aa66-1d8687d3a30b")
 	)
-	(model "${KIPRJMOD}/rp2xxx_stamp_footprints/KiCad/RP2xxx_Stamp.3dshapes/RP2350_Stamp_XL.step"
+	(model "../RP2xxx_Stamp.3dshapes/RP2350_Stamp_XL.step"
 		(offset
 			(xyz 0 0 0)
 		)
