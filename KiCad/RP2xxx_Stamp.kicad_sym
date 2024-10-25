@@ -49,7 +49,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "RP2xxx_Stamp"
+		(property "ki_fp_filters" "RP2xxx_Stamp*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -872,7 +872,7 @@
 				)
 			)
 		)
-		(property "ki_fp_filters" "RP2xxx_Stamp_XL"
+		(property "ki_fp_filters" "RP2xxx_Stamp_XL*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2063,7 +2063,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "RP2xxx_Stamp"
+		(property "ki_fp_filters" "RP2xxx_Stamp*"
 			(at 0 0 0)
 			(effects
 				(font

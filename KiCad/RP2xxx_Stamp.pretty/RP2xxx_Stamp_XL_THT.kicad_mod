@@ -1207,7 +1207,7 @@
 		(remove_unused_layers no)
 		(uuid "878f8b57-c369-4275-afc1-66f983c27c02")
 	)
-	(model "${KIPRJMOD}/rp2xxx_stamp_footprints/KiCad/RP2xxx_Stamp.3dshapes/RP2350_Stamp_XL.step"
+	(model "../RP2xxx_Stamp.3dshapes/RP2350_Stamp_XL.step"
 		(offset
 			(xyz 0 0 0)
 		)
